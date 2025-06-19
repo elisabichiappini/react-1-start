@@ -5,7 +5,7 @@ import Welcome from './assets/components/Welcome.jsx';
 function App() {
   return (
     <div>
-      <Welcome name="Sara"></Welcome>
+      <Welcome name="Jonny"></Welcome>
       <Welcome name="Elisa"></Welcome>
     </div>
   )
