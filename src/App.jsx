@@ -1,6 +1,6 @@
 
 import './App.css'
-import Welcome from './assets/components/Welcome.jsx';
+import Welcome from './assets/components/Welcome/Welcome.jsx';
 
 function App() {
   return (
